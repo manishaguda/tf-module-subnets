@@ -1,7 +1,7 @@
 variable "cidr_block" {}
 variable "availability_zone" {}
 variable "env" {}
-variable "subnets" {}
+#variable "subnets" {}
 
 variable "vpc_id" {}
 
